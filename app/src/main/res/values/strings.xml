@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Robot book</string>
+    <string name="sort_action">Sort</string>
+    <string name="ascendingOptionText">ASCENDING</string>
+    <string name="descendingOptionText">DESCENDING</string>
+    <string name="sortingMenuText">Sort...</string>
+</resources>
